@@ -795,6 +795,366 @@ const palavras = [
 		categoria : "SIGNOS"
 	},
 
+	palavra0154= {
+		nome: "ADVOGADO",
+		categoria : "PROFISSÃO"
+	},
+
+	palavra0155= {
+		nome: "MEDICO",
+		categoria : "PROFISSÃO"
+	},
+
+	palavra0156= {
+		nome: "CANTOR",
+		categoria : "PROFISSÃO"
+	},
+
+	palavra0157= {
+		nome: "POLICIAL",
+		categoria : "PROFISSÃO"
+	},
+
+	palavra0158= {
+		nome: "MECANICO",
+		categoria : "PROFISSÃO"
+	},
+
+	palavra0159= {
+		nome: "ELETRICISTA",
+		categoria : "PROFISSÃO"
+	},
+
+	palavra0160= {
+		nome: "PROGRAMADOR",
+		categoria : "PROFISSÃO"
+	},
+
+	palavra0161= {
+		nome: "ENFERMEIRO",
+		categoria : "PROFISSÃO"
+	},
+
+	palavra0162= {
+		nome: "JORNALISTA",
+		categoria : "PROFISSÃO"
+	},
+
+	palavra0163= {
+		nome: "ATENDENTE",
+		categoria : "PROFISSÃO"
+	},
+
+	palavra0164= {
+		nome: "DENTISTA",
+		categoria : "PROFISSÃO"
+	},
+
+	palavra0165= {
+		nome: "CIENTISTA",
+		categoria : "PROFISSÃO"
+	},
+
+	palavra0166= {
+		nome: "PSICOLOGO",
+		categoria : "PROFISSÃO"
+	},
+
+	palavra0167= {
+		nome: "FISIOTERAPEUTA",
+		categoria : "PROFISSÃO"
+	},
+
+	palavra0168= {
+		nome: "ARQUITETO",
+		categoria : "PROFISSÃO"
+	},
+
+	palavra0169= {
+		nome: "CONTADOR",
+		categoria : "PROFISSÃO"
+	},
+
+	palavra0170= {
+		nome: "VETERINARIO",
+		categoria : "PROFISSÃO"
+	},
+
+	palavra0171= {
+		nome: "HONDA",
+		categoria : "MARCA DE CARROS"
+	},
+
+	palavra0172= {
+		nome: "TOYOTA",
+		categoria : "MARCA DE CARROS"
+	},
+
+	palavra0173= {
+		nome: "FORD",
+		categoria : "MARCA DE CARROS"
+	},
+
+	palavra0174= {
+		nome: "CHEVROLET",
+		categoria : "MARCA DE CARROS"
+	},
+
+	palavra0175= {
+		nome: "NISSAN",
+		categoria : "MARCA DE CARROS"
+	},
+
+	palavra0176= {
+		nome: "BMW",
+		categoria : "MARCA DE CARROS"
+	},
+
+	palavra0177= {
+		nome: "AUDI",
+		categoria : "MARCA DE CARROS"
+	},
+
+	palavra0178= {
+		nome: "TESLA",
+		categoria : "MARCA DE CARROS"
+	},
+
+	palavra0179= {
+		nome: "JEEP",
+		categoria : "MARCA DE CARROS"
+	},
+
+	palavra0180= {
+		nome: "JAGUAR",
+		categoria : "MARCA DE CARROS"
+	},
+
+	palavra0181= {
+		nome: "PORSHE",
+		categoria : "MARCA DE CARROS"
+	},
+
+	palavra0182= {
+		nome: "MITSUBISHI",
+		categoria : "MARCA DE CARROS"
+	},
+
+	palavra0183= {
+		nome: "VOLVO",
+		categoria : "MARCA DE CARROS"
+	},
+
+	palavra0184= {
+		nome: "MAZDA",
+		categoria : "MARCA DE CARROS"
+	},
+
+	palavra0185= {
+		nome: "LEXUS",
+		categoria : "MARCA DE CARROS"
+	},
+
+	palavra0186= {
+		nome: "CADILLAC",
+		categoria : "MARCA DE CARROS"
+	},
+
+	palavra0187= {
+		nome: "VIOLINO",
+		categoria : "INSTRUMENTOS MUSICAIS"
+	},
+
+	palavra0188= {
+		nome: "PIANO",
+		categoria : "INSTRUMENTOS MUSICAIS"
+	},
+
+	palavra0189= {
+		nome: "TECLADO",
+		categoria : "INSTRUMENTOS MUSICAIS"
+	},
+
+	palavra0190= {
+		nome: "GUITARRA",
+		categoria : "INSTRUMENTOS MUSICAIS"
+	},
+
+	palavra0191= {
+		nome: "BAIXO",
+		categoria : "INSTRUMENTOS MUSICAIS"
+	},
+
+	palavra0192= {
+		nome: "BATERIA",
+		categoria : "INSTRUMENTOS MUSICAIS"
+	},
+
+	palavra0193= {
+		nome: "FLAUTA",
+		categoria : "INSTRUMENTOS MUSICAIS"
+	},
+
+	palavra0194= {
+		nome: "SAXOFONE",
+		categoria : "INSTRUMENTOS MUSICAIS"
+	},
+
+	palavra0195= {
+		nome: "TROMPETE",
+		categoria : "INSTRUMENTOS MUSICAIS"
+	},
+
+	palavra0196= {
+		nome: "CLARINETE",
+		categoria : "INSTRUMENTOS MUSICAIS"
+	},
+
+	palavra0197= {
+		nome: "TROMBONE",
+		categoria : "INSTRUMENTOS MUSICAIS"
+	},
+
+	palavra0198= {
+		nome: "HARPA",
+		categoria : "INSTRUMENTOS MUSICAIS"
+	},
+
+	palavra0199= {
+		nome: "ACORDEAO",
+		categoria : "INSTRUMENTOS MUSICAIS"
+	},
+
+	palavra200= {
+		nome: "XILOFONE",
+		categoria : "INSTRUMENTOS MUSICAIS"
+	},
+
+	palavra200= {
+		nome: "BANJO",
+		categoria : "INSTRUMENTOS MUSICAIS"
+	},
+
+	palavra201= {
+		nome: "VIOLA",
+		categoria : "INSTRUMENTOS MUSICAIS"
+	},
+
+	palavra202= {
+		nome: "ATABAQUE",
+		categoria : "INSTRUMENTOS MUSICAIS"
+	},
+
+	palavra203= {
+		nome: "BATMAN",
+		categoria : "SUPER HERÓIS"
+	},
+
+	palavra204= {
+		nome: "SUPERMAN",
+		categoria : "SUPER HERÓIS"
+	},
+
+	palavra205= {
+		nome: "FLASH",
+		categoria : "SUPER HERÓIS"
+	},
+
+	palavra206= {
+		nome: "WOLVERINE",
+		categoria : "SUPER HERÓIS"
+	},
+
+	palavra207= {
+		nome: "THOR",
+		categoria : "SUPER HERÓIS"
+	},
+
+	palavra208= {
+		nome: "HULK",
+		categoria : "SUPER HERÓIS"
+	},
+
+	palavra209= {
+		nome: "AQUAMAN",
+		categoria : "SUPER HERÓIS"
+	},
+
+	palavra210= {
+		nome: "CORINGA",
+		categoria : "VILÕES"
+	},
+
+	palavra211= {
+		nome: "NAGNETO",
+		categoria : "VILÕES"
+	},
+
+	palavra212= {
+		nome: "LOKI",
+		categoria : "VILÕES"
+	},
+
+	palavra213= {
+		nome: "THANOS",
+		categoria : "VILÕES"
+	},
+
+	palavra214= {
+		nome: "ELECTRO",
+		categoria : "VILÕES"
+	},
+
+	palavra215= {
+		nome: "ZEUS",
+		categoria : "MITOLOGIA GREGA"
+	},
+
+	palavra216= {
+		nome: "HERA",
+		categoria : "MITOLOGIA GREGA"
+	},
+
+	palavra217= {
+		nome: "ATENA",
+		categoria : "MITOLOGIA GREGA"
+	},
+
+	palavra218= {
+		nome: "APOLO",
+		categoria : "MITOLOGIA GREGA"
+	},
+
+	palavra219= {
+		nome: "AFRODITE",
+		categoria : "MITOLOGIA GREGA"
+	},
+
+	palavra220= {
+		nome: "HADES",
+		categoria : "MITOLOGIA GREGA"
+	},
+
+	palavra221= {
+		nome: "POSEIDON",
+		categoria : "MITOLOGIA GREGA"
+	},
+
+	palavra222= {
+		nome: "ARTEMIS",
+		categoria : "MITOLOGIA GREGA"
+	},
+
+	palavra223= {
+		nome: "DIONISIO",
+		categoria : "MITOLOGIA GREGA"
+	},
+
+	palavra224= {
+		nome: "HERMES",
+		categoria : "MITOLOGIA GREGA"
+	},
+	
 ];
 
 criarPalavraSecreta();
@@ -923,4 +1283,5 @@ btnReiniciar.addEventListener("click", function(){
 function novoJogo(){
 	location.reload();
 };
+
 
